@@ -1,5 +1,21 @@
 # Techzette
-This is a cloud-based web application which provides the basic functionalities of buying and selling PC products from any shops/companies or from any individual seller registered with Techzette and this application has a special functionality called PC build which gives the user an opportunity to build a custom PC with parts selected from different shops/companies. Users can create and login to their accounts. 
+As the project for the Cloud Computing module in 4th semester, developed a cloud-based web application for users to buy laptops and computer accessories from various shops/companies in Techzette along with a function to build their PC from any of the above shops/companies. Also, users can sell their products by registering as individual sellers or a company.
+
+There are 2 main sections in Techzette.
+
+1. Laptops and Accessories.
+Users can create their accounts and register with Techzette as a buyer or individual sellers. Buyers can buy laptops and other computer accessories from registered individual sellers while sellers can post their products.
+
+1. Partners and PC build.
+Users can also create their accounts through this section as buyers or partners(for tech companies) and to build their PC. This section allows users to build a PC with any computer part from any partner. Also, this section helps users to choose their favorite shop/company(partner) and buy products from them.
+
+There are 2 payment methods.
+
+1. Cash on delivery.
+This method is for buyers who buy computer accessories.
+
+2. Card Payments.
+This method is for buyers who buy laptops or build PCs.
 
 Technologies used: Python, Flask, Firebase, HTML, Tailwind CSS, Heroku
 
