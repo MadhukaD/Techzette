@@ -19,7 +19,7 @@ This method is for buyers who buy laptops or build PCs.
 
 Technologies used: Python, Flask, Firebase, HTML, Tailwind CSS, Heroku
 
-Demonstration video: https://drive.google.com/file/d/16ixCk3NLy__GQDFZObFfvyKWBh1DYFHZ/view?usp=sharing
+Demonstration video: https://www.youtube.com/watch?v=bp7OltFjze0&t=17s
 
 ![techzette](https://user-images.githubusercontent.com/83831219/174781202-43d05655-a3be-430c-bb79-2eec1df2cdcd.jpg)
 ![Web capture_19-6-2022_205814_techzettelk herokuapp com](https://user-images.githubusercontent.com/83831219/174489005-586001b6-269e-4caa-ad6b-4df49d242421.jpeg)
